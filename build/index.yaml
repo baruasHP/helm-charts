@@ -3,6 +3,16 @@ entries:
   tusd:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-07-15T10:49:34.904352582Z"
+    description: A Helm chart for Kubernetes
+    digest: 3cc8d090512b7f999f84f68ac7ce39cfa77909c32328078fb57f3e67380e4cf8
+    name: tusd
+    type: application
+    urls:
+    - https://github.com/baruasHP/helm-charts/releases/download/tusd-0.3.8/tusd-0.3.8.tgz
+    version: 0.3.8
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-07-15T10:02:05.148132538Z"
     description: A Helm chart for Kubernetes
     digest: f8c365d4dcbf80474e3493d3cc201d9affe1c57ec54d25d1255e3e8fad9b4c85
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/hamropatro/helm-charts/releases/download/web-service-0.3.4/web-service-0.3.4.tgz
     version: 0.3.4
-generated: "2026-07-15T10:06:21.844911353Z"
+generated: "2026-07-15T10:49:34.904359973Z"
